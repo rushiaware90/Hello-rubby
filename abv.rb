@@ -1,1 +1,1 @@
-puts “PLACEHOLDER”
+puts "Hello, World!"
